@@ -5,20 +5,20 @@
   src: url("/avenir-400.woff2") format("woff2");
   font-display: swap;
 }
-
+img{
+    width:508px!important;
+    height:89px;
+    background:none;
+}
 body {
   font-family: "Avenir", Tahoma, Arial, Helvetica, sans-serif;
   font-size: 1em;
   line-height: 1.65;
   color: #373F49;
-  background: #eee;
+  background: #fff;
   margin: 0;
 }
 
-img {
-  display: block;
-  width: 100%;
-}
 
 h1,
 h2,
